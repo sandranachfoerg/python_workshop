@@ -1,9 +1,9 @@
-# python_workshop
+# Python Workshop Baruch AIS
+
+## Installation
 How to download Anaconda to use Jupyter Notebook: https://www.youtube.com/watch?v=s35P54TNdH4
 
-python_workshop
-Python Workshop Baruch AIS
-
+## Challenges
 Imagine you are a business analyst at Cycle Sales, a small business in New York City selling bike equipment. The manager asked you to analyze the Transactions worksheet from 2017. He is interested in the following:
 
 What was the most popular brand in 2017, in other words, which product line had the highest number in sales? <br/>
