@@ -18,11 +18,11 @@ Now it’s your turn! 
 ## Challenge
 After you analyzed the Transactions worksheet, he also wants to learn more about the current customers. He wants to know the following:<br/>
 
-Which age group has purchased most items based on the 2017 Transactions? <br/>
+- Which age group has purchased most items based on the 2017 Transactions? <br/>
 Answer: ________________<br/>
-Which gender bought more? Male/ Female?<br/>
+- Which gender bought more? Male/ Female? <br/>
 Answer: ________________<br/>
-Challenge: Create a double bar graph to analyze the number of customers based on gender and job industry category. 
+- Challenge: Create a double bar graph to analyze the number of customers based on gender and job industry category. 
 
 Hint 1: Don’t include ‘undefined’ gender and remove the missing values. <br/>
 Hint 2: Use conditional statements! <br/>
