@@ -1,6 +1,6 @@
 # Baruch AIS: Data Analytic Workshop with Python :chart_with_upwards_trend:
 
-## Installation
+## Installation :wrench:
 How to download Anaconda to use Jupyter Notebook:
 https://www.youtube.com/watch?v=s35P54TNdH4
 
@@ -36,7 +36,7 @@ Answer: ________________<br/>
 
 To help your manager better understand your findings, include graphs as needed!<br/>
 
-### Additional Resources:
+### Additional Resources: :file_folder:
 https://matplotlib.org/3.1.0/gallery/color/named_colors.html<br/>
 
 Good luck! <br/>
