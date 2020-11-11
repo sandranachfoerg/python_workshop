@@ -13,7 +13,7 @@ Answer: _____________________ <br/>
 - Which month was most profitable? <br/>
 Answer: ___________________<br/>
 
-Now it’s your turn! 
+*Now it’s your turn!*
 
 ## Challenge
 After you analyzed the Transactions worksheet, he also wants to learn more about the current customers. He wants to know the following:<br/>
@@ -30,6 +30,7 @@ Answer: ________________<br/>
 
 To help your manager better understand your findings, include graphs as needed!<br/>
 
-Additional Resources: https://matplotlib.org/3.1.0/gallery/color/named_colors.html<br/>
+### Additional Resources:
+https://matplotlib.org/3.1.0/gallery/color/named_colors.html<br/>
 
 Good luck! <br/>
