@@ -1,10 +1,10 @@
-# Baruch AIS: Data Analytic Workshop with Python :chart_with_upwards_trend:
+# Baruch AIS: Data Analytics Workshop with Python :chart_with_upwards_trend:
 
 ## Installation :wrench:
 How to download Anaconda to use Jupyter Notebook:
 https://www.youtube.com/watch?v=s35P54TNdH4
 
-### Python Lbraries
+### Python Libraries
 - Pandas
 - Matplotlib
 - NumPy
