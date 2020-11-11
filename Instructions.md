@@ -1,3 +1,5 @@
+How to download Anaconda to use Jupyter Notebook: https://www.youtube.com/watch?v=s35P54TNdH4
+
 # python_workshop
 
 Python Workshop
