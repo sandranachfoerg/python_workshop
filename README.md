@@ -4,10 +4,10 @@
 How to download Anaconda to use Jupyter Notebook:
 https://www.youtube.com/watch?v=s35P54TNdH4
 
-###Python Lbraries
--Pandas
--Matplotlib
--NumPy
+### Python Lbraries
+- Pandas
+- Matplotlib
+- NumPy
 
 ## Lecture
 Imagine you are a business analyst at Cycle Sales, a small business in New York City selling bike equipment. The manager asked you to analyze the Transactions worksheet from 2017. He is interested in the following:
