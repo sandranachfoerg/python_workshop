@@ -20,6 +20,7 @@ Challenge: Create a double bar graph to analyze the number of customers based on
 Hint 1: Don’t include ‘undefined’ gender and remove the missing values. 
 Hint 2: Use conditional statements! 
 Hint 3: Use the following link for visualization. https://matplotlib.org/3.1.1/gallery/lines_bars_and_markers/barchart.html
+
 To help your manager better understand your findings, include graphs as needed!
 
 Additional Resources: https://matplotlib.org/3.1.0/gallery/color/named_colors.html
