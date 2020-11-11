@@ -3,7 +3,7 @@
 ## Installation
 How to download Anaconda to use Jupyter Notebook: https://www.youtube.com/watch?v=s35P54TNdH4
 
-## Challenges
+## Lecture
 Imagine you are a business analyst at Cycle Sales, a small business in New York City selling bike equipment. The manager asked you to analyze the Transactions worksheet from 2017. He is interested in the following:
 
 What was the most popular brand in 2017, in other words, which product line had the highest number in sales? <br/>
@@ -14,6 +14,8 @@ Which month was most profitable? <br/>
 Answer: ___________________<br/>
 Now it’s your turn! 
 <br/>
+
+## Challenge
 After you analyzed the Transactions worksheet, he also wants to learn more about the current customers. He wants to know the following:<br/>
 
 Which age group has purchased most items based on the 2017 Transactions? <br/>
