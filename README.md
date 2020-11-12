@@ -7,7 +7,11 @@ https://www.youtube.com/watch?v=s35P54TNdH4
 ### Python Libraries
 - Pandas
 - Matplotlib
-- NumPy
+
+```
+pip install pandas
+pip install matplotlib 
+```
 
 ## Lecture :notebook:
 Imagine you are a business analyst at Cycle Sales, a small business in New York City selling bike equipment. The manager asked you to analyze the Transactions worksheet from 2017. He is interested in the following:
